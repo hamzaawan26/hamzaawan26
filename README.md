@@ -3,7 +3,7 @@
 
 # Hi, I'm Hamza Awan 👋
 
-### Software Engineer | Full-Stack Developer
+### Full-Stack Developer | MERN Stack Developer
 
 Building web applications, backend systems, and cross-platform applications.
 
