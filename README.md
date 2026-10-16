@@ -16,7 +16,7 @@ Building web applications, backend systems, and cross-platform applications.
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer and Full-Stack Developer with professional experience in building and maintaining web applications, backend APIs, mobile applications, and TV applications.
+I'm a Full-Stack Developer with professional experience in building and maintaining web applications, backend APIs, mobile applications, and TV applications.
 
 My work involves frontend and backend development, database management, authentication, API integration, deployment, and application maintenance.
 
